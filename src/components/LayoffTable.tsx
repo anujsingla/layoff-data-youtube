@@ -1,4 +1,4 @@
-import { useGetLayoffData } from "../Hooks/ReactQueries";
+import { useGetLayoffData } from "../hooks/ReactQueries";
 import {
   Badge,
   Card,
